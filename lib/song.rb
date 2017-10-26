@@ -1,6 +1,6 @@
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
-
+# dynamic ORMs
 class Song
 
   def self.table_name
